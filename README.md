@@ -208,7 +208,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 |   Rippex | [![alt text][web]](https://rippex.net/carteira-ripple.php) | | | `DC` | (operating) | ripple protocol | 7 | | | | |
 | River Exchange |   | [![alt text][github]](https://github.com/didil/river-x) |   | `FULLY` | (dev) | TBC |   | | | | |
 | 	RSK	| 	[![alt text][web]](https://www.rsk.co/) | [![alt text][github]](https://github.com/rsksmart/)	| [![alt text][whitepaper]](https://uploads.strikinglycdn.com/files/ec5278f8-218c-407a-af3c-ab71a910246d/RSK%20White%20Paper%20-%20Overview.pdf) | | 	(dev)	| 	rsk protocol	| 2	| | | | |
-| 	RuDEX	| 	[![alt text][web]](https://rudex.org/) |	| | | 	(operating - beta)	| 	bitshares protocol (Graphene)	|	| | | | |
+| 	RuDEX	| 	[![alt text][web]](https://market.rudex.org/) |	[![alt text][github]](https://github.com/blckchnd/rudex-ui) | | | 	(operating - beta)	| 	bitshares protocol (Graphene)	|	| Bitshares, Bitshares SmartCoins, Bitshares UIA | Bitshares | | |
 | 	SAFEX	|  | [![alt text][github]](https://github.com/dallyshalla/safex-while)	| | | 	(released)	| 	safex protocol	| 2	| | | | |
 | 	Saturn	| [![alt text][web]](https://saturn.network/)  | [![alt text][github]](https://github.com/rados-io)	| [![alt text][whitepaper]](https://whitepaper.saturn.network/) |  | 	(released)	| 	saturn protocol	| 2	| ERC20 Tokens - ERC223 Tokens | Ethereum | | |
 | 	SDEX	| 	[![alt text][web]](https://www.stellar.org/blog/2018-Stellar-Roadmap/) | | | | 	(dev)	| 	stellar consensus protocol	| 	| | | | |
