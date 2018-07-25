@@ -27,7 +27,8 @@ Binkd, https://www.binkd.com, https://github.com/binkd, https://www.binkd.com/pd
 Bisq, https://bisq.network, https://github.com/bisq-network, https://github.com/bisq-network/docs/blob/master/exchange/whitepaper.adoc, FULLY, operating, Bisq protocol, 6, , , , 
 BitPoint, http://bitpoint.network, https://github.com/BitPointNetwork, , , operating, 0x protocol, 6, , , , 
 Bitox Exchange, https://bitox.io, https://github.com/bitox-exchange, , FULLY, dev, 0x protocol, , , , , 
-BitShares, https://wallet.bitshares.org, https://github.com/bitshares, http://docs.bitshares.org/bitshares/papers, , live, bitshares protocol DPOS, , "Bitshares, Bitshares SmartCoins", Bitshares, , 
+
+, https://wallet.bitshares.org, https://github.com/bitshares, http://docs.bitshares.org/bitshares/papers, , live, bitshares protocol DPOS, , "Bitshares, Bitshares SmartCoins", Bitshares, , 
 Blackhalo, http://blackhalo.info, https://github.com/dzimbeck/Halo, http://blackhalo.info/wp-content/uploads/2014/06/whitepaper_twosided.pdf, FULLY, operating - beta, TBC, , , , , 
 Blockchain.io, https://blockchain.io, , https://blockchain.io/wp-content/uploads/2018/02/Manifesto_blockchain_HD.pdf, DS DSTT, dev, cross-chain protocol, 3, , , , 
 BLOCK DX, https://blocknet.co, https://github.com/BlocknetDX/BlockDX, https://www.blocknet.co/wp-content/uploads/2018/04/whitepaper.pdf, FULLY, operating - beta, blocknet protocol + 0x protocol, , , , , 
@@ -190,7 +191,7 @@ Ripple, https://ripple.com, https://github.com/ripple, http://whitepaperdatabase
 Rippex, https://rippex.net/carteira-ripple.php, , , DC, operating, ripple protocol, 7, , , , 
 River Exchange, , https://github.com/didil/river-x, , FULLY, dev, TBC, , , , , 
 RSK, https://www.rsk.co, https://github.com/rsksmart, https://uploads.strikinglycdn.com/files/ec5278f8-218c-407a-af3c-ab71a910246d/RSK%20White%20Paper%20-%20Overview.pdf, , dev, rsk protocol, 2, , , , 
-RuDEX, https://rudex.org, , , , operating - beta, bitshares protocol Graphene, , , , , 
+RuDEX, https://market.rudex.org, https://github.com/blckchnd/rudex-ui, , , operating - beta, bitshares protocol Graphene, , "Bitshares, Bitshares SmartCoins, Bitshares UIA", Bitshares, , 
 SAFEX, , https://github.com/dallyshalla/safex-while, , , released, safex protocol, 2, , , , 
 Saturn, https://saturn.network, https://github.com/rados-io, https://whitepaper.saturn.network, , released, saturn protocol, 2, ERC20 Tokens - ERC223 Tokens, Ethereum, , 
 SDEX, https://www.stellar.org/blog/2018-Stellar-Roadmap, , , , dev, stellar consensus protocol, , , , , 
